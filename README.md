@@ -1,1 +1,1 @@
-# Exercises for a University course on software enginnering
+# Exercises for a University course on software engineering
